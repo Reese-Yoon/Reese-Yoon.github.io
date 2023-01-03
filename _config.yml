@@ -104,9 +104,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Reese-Yoon"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "안녕하세요. 신입 **백엔드 개발자** Reese-Yoon입니다. ^^ 여기는 저의 TIL개발로그 입니다. 자유롭게 댓글 "
   location         : "Somewhere"
   email            :
   links:
